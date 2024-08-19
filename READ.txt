@@ -1,0 +1,6 @@
+Acting as data scientists for a company that rents bicycles. The idea is to understand which factors affect the demand for bicycles so that the company can create specific action plans to serve its customers.
+
+Furthermore, the company also wants us to create a model that can predict how many bikes will be rented the next day or the next month. That is, we will be able to predict the future.
+
+These predictions will be made using a very interesting library called Prophet, created by the Meta group, the same group behind Instagram and Facebook.
+
